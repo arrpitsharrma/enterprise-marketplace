@@ -15,3 +15,4 @@ The marketplace has various features including:
 5. Presentation of the 5 Most Visited services in the whole Marketplace.
 
 
+Credits to Mitwa Palkhiwal, Rohit Bhagvat Sapkal and Sneha.
